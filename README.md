@@ -1,7 +1,7 @@
 ### Hi 👋
 
 ### Techies:
-<img height="880em" src="https://c.tenor.com/2efyFeDcIRQAAAAC/techies-%D1%81.gif">
+<img height="880em" src="https://thumbs.gfycat.com/FelineCorruptHaddock-max-1mb.gif">
 
 I'm Ivan, a 19 years old web developer from Moscow.
 
