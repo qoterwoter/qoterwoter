@@ -1,5 +1,8 @@
 ### Hi 👋
 
+### Techies:
+<img height="880em" src="https://sun9-54.userapi.com/impg/8PaBWIb8hQDLyfjNl8bps62lNxjjFS4BEEA5eA/DOhjZ7QyEeE.jpg?size=235x272&quality=96&sign=f6c537c2c1f736f190b6d8882f95e801&type=album">
+
 I'm Ivan, a 19 years old web developer from Moscow.
 
 ## Skills
@@ -29,8 +32,6 @@ Bash         1 min           ▓░░░░░░░░░░░░░░░░
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glazkoff&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
-### Techies:
-<img height="180em" src="https://sun9-54.userapi.com/impg/8PaBWIb8hQDLyfjNl8bps62lNxjjFS4BEEA5eA/DOhjZ7QyEeE.jpg?size=235x272&quality=96&sign=f6c537c2c1f736f190b6d8882f95e801&type=album">
 <!--
 **Glazkoff/Glazkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
